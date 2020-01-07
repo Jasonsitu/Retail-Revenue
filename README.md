@@ -1,2 +1,2 @@
 # Retail-Revenue
-Customer Segmentation, Predicting Sales, AB testing
+Customer Segmentation, Predicting Sales, Metric Analysis
